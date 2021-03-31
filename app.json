@@ -1,12 +1,4 @@
 {
-  "name": "budget-mobile",
-  "displayName": "budget-mobile",
-  "expo": {
-    "name": "budget-mobile",
-    "slug": "budget-mobile",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  }
+  "name": "budgetmobile",
+  "displayName": "Budget"
 }
